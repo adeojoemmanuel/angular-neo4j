@@ -23,7 +23,7 @@
     "bcrypt": ">0.5.x",
     "nodemailer": "0.3.x",
     "validator": "0.4.x",
-    "email-templates": "0.0.x",
+    "email-templates": "1.1.1",
     "uuid-v4": "0.0.x",
     "express-useragent": "0.0.x",
     "superagent": "~0.14.0"
