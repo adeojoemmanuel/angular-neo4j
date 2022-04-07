@@ -14,7 +14,7 @@
     "connect-redis": "1.4.x",
     "neoprene": "1.0.x",
     "express-validator": "0.3.x",
-    "winston": "0.6.x",
+    "winston": "3.3.0",
     "winston-loggly": "0.6.x",
     "passport": "0.1.12",
     "passport-local": "0.1.x",
@@ -23,7 +23,7 @@
     "bcrypt": ">0.5.x",
     "nodemailer": "0.3.x",
     "validator": "0.4.x",
-    "email-templates": "0.0.x",
+    "email-templates": "2.0.0",
     "uuid-v4": "0.0.x",
     "express-useragent": "0.0.x",
     "superagent": "~0.14.0"
